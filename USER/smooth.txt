@@ -1,0 +1,4 @@
+舵机范围 ： 500 ————2500
+_XY[x]     X值
+Relative_Dist              y值
+OpenMv 也用来扫描物块到底要放哪儿
